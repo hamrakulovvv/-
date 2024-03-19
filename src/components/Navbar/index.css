@@ -1,0 +1,29 @@
+
+
+nav ul.logo {
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+    padding: 0px 4px;
+    filter: 
+    drop-shadow(2px 2px 20px rgb(13, 110, 253))
+    ;
+}
+
+nav ul li a {
+    font-size: 18px;
+    color: rgb(255, 255, 255)
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    flex-wrap: wrap;
+}
+
+ul img{
+    width: 200px;
+    height: 100px;
+}
+
